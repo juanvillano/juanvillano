@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Juan Villar 👋
+
+### I'm a UX designer learning to develop apps using flutter.
 
 <!--
 **juanvillano/juanvillano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
