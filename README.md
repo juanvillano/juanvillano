@@ -2,7 +2,7 @@
 
 ### I'm a UX designer currently learning to develop apps with flutter.
 
-## I have more than 9 years of experience. During the first 5 years of my career I worked in an advertising agency as a graphic and motion designer, after that I started designing for the web. In the last 5 years I've been working as an UX designer for agencies and finantial intitutions.
+I have more than 9 years of experience. During the first 5 years of my career I worked in an advertising agency as a graphic and motion designer, after that I started designing for the web. In the last 5 years I've been working as an UX designer for agencies and finantial intitutions.
 
 ## - 📫 How to reach me:
 
